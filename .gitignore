@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.log
+
+# Virtualenv
+.venv/
+
+# VSCode
+.vscode/
+
+# MkDocs / Docs
+site/
+docs/**/*.html
+
+frontend/
+docs/api/
